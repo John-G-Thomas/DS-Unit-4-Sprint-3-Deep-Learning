@@ -11,3 +11,5 @@ Read About the History of General Artificial Intelligence Research, the future o
 * [Yann LeCunn Interview](https://www.youtube.com/watch?v=SGSOCuByo24)
 
 Enjoy!  :coffee:
+Would you install a nurallink aka a digital brain computer link thats lets your brain directly interact with a computer interface that can back up your memories etc?
+Would you trust a ai surgeon rather that claimes to have no error or would you trust a human surgeon?
