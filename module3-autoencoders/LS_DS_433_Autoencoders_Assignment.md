@@ -12,4 +12,10 @@ Read About the History of General Artificial Intelligence Research, the future o
 
 Enjoy!  :coffee:
 Would you install a nurallink aka a digital brain computer link thats lets your brain directly interact with a computer interface that can back up your memories etc?
+https://engineering.stanford.edu/magazine/article/which-more-fair-human-or-machine
 Would you trust a ai surgeon rather that claimes to have no error or would you trust a human surgeon?
+(1) How does technology impact your topic?
+How well it inherets a human bias rather than developing its own bias.
+(2) What do you predict for your topic in 20 years? 200 years?
+
+(3) What was the most interesting question about this topic brought up by your group?
